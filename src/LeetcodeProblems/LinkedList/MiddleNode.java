@@ -1,4 +1,5 @@
 // LeetCode 876: Middle of the Linked List | Algorithm: Two Pointer Technique
+
 package LeetcodeProblems.LinkedList;
 
 public class MiddleNode {
