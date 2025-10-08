@@ -1,7 +1,6 @@
 // LeetCode 141: Linked List Cycle | Algorithm: Two Pointers (Floyd's Cycle Detection)
 
 package LeetcodeProblems.LinkedList;
-
 public class LinkedListCycle {
     public boolean hasCycle(ListNode head) {
         if (head == null || head.next == null) return false;
